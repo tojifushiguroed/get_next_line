@@ -1,0 +1,7 @@
+aswedcsxdefv
+cdddsadxedfrgt
+34567890
+dswdesxwedxswer
+stdin
+boş satır NULL
+gcc get_next_line.c get_next_line_utils.c -D BUFFER_SIZE=1000000
